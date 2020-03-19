@@ -1,2 +1,3 @@
 Questo è un file di esempio nel branch ramo.
 Seconda riga
+Terza riga
